@@ -34,7 +34,7 @@ export const productController = async (
                 return sendResponse(res, 404, false, "Product not found!");
             }
 
-            return sendResponse(res, 200, true, "Product retrieved successfully", products);
+            return sendResponse(res, 200, true, "Product retrieved successfully", product);
         } catch (error) {
             return sendResponse(res, 500, false, "Something went wrong!", error);
         }
