@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Apple MacBook Pro 2017",
+        "price": 270000,
+        "description": "13-inch laptop with Intel Core i5 processor, Retina display, 8GB RAM, and 256GB SSD storage."
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S23 Ultra",
+        "price": 145000,
+        "description": "Flagship Android smartphone featuring a 200MP camera, Snapdragon 8 Gen 2 processor, and 5000mAh battery."
+    },
+    {
+        "id": 3,
+        "name": "Sony WH-1000XM5",
+        "price": 42000,
+        "description": "Premium wireless noise-canceling headphones with up to 30 hours of battery life and crystal-clear audio."
+    },
+    {
+        "id": 1779181267763,
+        "name": "Gigabyte Aorus 5MB",
+        "price": 93000,
+        "description": "Best gaming laptop ever"
+    }
+]
